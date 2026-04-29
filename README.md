@@ -64,44 +64,27 @@ Le projet intégrait des notions d’algorithmique et de graphes :
 ## Aperçu
 
 <p align="center">
-  <img src="screenshots/cover.png" width="700"/>
+  <img src="menu.png" width="700"/>
+</p>
+
+### Menu pause
+
+<p align="center">
+  <img src="pause.png" width="700"/>
 </p>
 
 ### Monde Minecraft
 
 <p align="center">
-  <img src="screenshots/minecraft.png" width="700"/>
+  <img src="minecraft.png" width="700"/>
 </p>
 
 ### Monde Sonic
 
 <p align="center">
-  <img src="screenshots/sonic.png" width="700"/>
+  <img src="sonic.png" width="700"/>
 </p>
 
-### Monde FIFA
-
-<p align="center">
-  <img src="screenshots/fifa.png" width="700"/>
-</p>
-
-### Monde Mario
-
-<p align="center">
-  <img src="screenshots/mario.png" width="700"/>
-</p>
-
-### Monde Zelda
-
-<p align="center">
-  <img src="screenshots/zelda.png" width="700"/>
-</p>
-
-### Monde Doom
-
-<p align="center">
-  <img src="screenshots/doom.png" width="700"/>
-</p>
 
 ---
 
